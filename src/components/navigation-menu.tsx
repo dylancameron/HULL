@@ -9,7 +9,7 @@ import {
 	faBandcamp,
 } from "@awesome.me/kit-cbb97b3f25/icons/classic/brands";
 import { useModalContext } from "@/hooks/use-modal";
-import pocomania from "@/assets/png/pocomania.png";
+import pocomania from "/pocomania.png";
 
 interface HeaderProps {
 	openModal?: () => void;
