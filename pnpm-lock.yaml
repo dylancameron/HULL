@@ -1756,7 +1756,7 @@ snapshots:
     dependencies:
       '@jridgewell/gen-mapping': 0.3.12
       '@jridgewell/trace-mapping': 0.3.29
-  '@awesome.me/kit-cbb97b3f25@1.0.13':
+
     dependencies:
       '@fortawesome/fontawesome-common-types': 6.7.2
 
